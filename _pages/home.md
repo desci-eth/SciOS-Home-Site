@@ -110,6 +110,7 @@ Description coming soon.
 <div class="col-md-12 col-sm-12">
 <h4><b>Compute over Data</b></h4>
 <a href="https://docs.bacalhau.org/" target="_blank"><button class="btn btn-success btn-sm">Bacalhau</button></a>
+<a href="https://protocol.ai/" target="_blank"><button class="btn btn-success btn-sm">Protocol Labs</button></a>
 
 <b>Track Lead:</b>
 <i>David Aronchick</i>
@@ -126,6 +127,8 @@ Description coming soon.
 <div class="col-md-12 col-sm-12">
 <h4><b>Funding and Incentive Design</b></h4>
 <a href="https://www.drips.network/" target="_blank"><button class="btn btn-success btn-sm">drips.network</button></a>
+<a href="https://www.coordination.network/" target="_blank"><button class="btn btn-info btn-sm">coordination.network</button></a>
+<a href="https://www.opensource.observer/" target="_blank"><button class="btn btn-info btn-sm">Open Source Observer</button></a>
 <a href="https://gridcoin.us/" target="_blank"><button class="btn btn-info btn-sm">gridcoin</button></a>
 
 <b>Track Leads:  </b>
@@ -139,7 +142,13 @@ Coming soon.
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
 <h4><b>Open State Data Networks</b></h4>
-<a href="https://www.desci.com/" target="_blank"><button class="btn btn-success btn-sm">Coming soon</button></a>
+<a href="https://www.desci.com/" target="_blank"><button class="btn btn-success btn-sm">DeSci LAbs</button></a>
+<a href="https://useorbis.com/" target="_blank"><button class="btn btn-success btn-sm">Orbis</button></a>
+<a href="https://attest.sh/" target="_blank"><button class="btn btn-success btn-sm">Ethereum Attestation Service</button></a>
+<a href="https://intuition.systems/" target="_blank"><button class="btn btn-success btn-sm">Intuition.Systems</button></a>
+<a href="https://ipfs.tech/" target="_blank"><button class="btn btn-success btn-sm">IPFS</button></a>
+<a href="https://ipfs.tech/" target="_blank"><button class="btn btn-success btn-sm">IPFS</button></a>
+<a href="https://protocol.ai/" target="_blank"><button class="btn btn-success btn-sm">Protocol Labs</button></a>
 
 <b>Track Leads:  </b>
 <i> Coming Soon </i>
@@ -155,6 +164,9 @@ Coming soon.
 <div class="col-md-12 col-sm-12">
 <h4><b>AI in Open Science</b></h4>
 <a href="https://decentralized.nevermined.io/" target="_blank"><button class="btn btn-success btn-sm">Nevermined</button></a>
+<a href="https://index.network/" target="_blank"><button class="btn btn-success btn-sm">Index Network</button></a>
+<a href="https://index.network/" target="_blank"><button class="btn btn-success btn-sm">Algovera</button></a>
+<a href="https://www.coordination.network/" target="_blank"><button class="btn btn-info btn-sm">coordination.network</button></a>
 
 <b>Track Leads:</b>
 <i>Don Gossen, Nevermined | Levi, CoopHive </i>
@@ -172,7 +184,7 @@ Coming Soon
 <a href="https://www.lateral.io/" target="_blank"><button class="btn btn-info btn-sm">Lateral</button></a>
 
 <b>Track Leads:</b>
-<i>Jon Starr, NumFOCUS | Martin, lateral.io</i>
+<i>Jonathan Starr, NumFOCUS | Martin, lateral.io</i>
 
 Coming Soon
 </div>
