@@ -1,0 +1,93 @@
+I"
+<h2 id="organizers">Organizers</h2>
+
+<div class="jumbotron">
+  <div class="row">
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/headshot.jpg" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-9 col-xs-12">
+      <h4>Protocol Labs</h4>
+      <p><i>The ppl</i><br /></p>
+
+      <p><a href="https://protocol.ai/" target="_blank"><button class="btn btn-success btn-sm">WEBSITE</button></a></p>
+
+      <p>&lt;/ul&gt;</p>
+    </div>
+  </div>
+</div>
+
+<div class="jumbotron">
+  <div class="row">
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/headshot.jpg" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-9 col-xs-12">
+      <h4>DeSci Labs</h4>
+      <p><i>Richard C. Tolman Professor, California Institute of Technology</i><br /></p>
+
+      <p><a href="https://protocol.ai/" target="_blank"><button class="btn btn-success btn-sm">WEBSITE</button></a></p>
+
+      <p>&lt;/ul&gt;</p>
+    </div>
+  </div>
+</div>
+
+<h2 id="track-leads">Track leads</h2>
+
+<div class="jumbotron">
+
+  <div class="row">
+
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/rock.jpg" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <h4>Example student name</h4>
+      <p><i>Postdoc, started Oct 2040<br /></i></p>
+
+      <p><a href="https://website.com" target="_blank"><i class="fa fa-home fa-2x"></i></a> 
+  <a href="mailto:exampleemail@gmail.com" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a></p>
+
+    </div>
+    <!-- </div> -->
+
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/rock.jpg" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <h4>This could be you !</h4>
+      <p><i>See <a href="www">openings</a> for more info<br /></i></p>
+
+    </div>
+    <!-- </div> -->
+
+  </div>
+
+</div>
+
+<h2 id="workshop-leads">Workshop Leads</h2>
+
+<div class="jumbotron">
+
+  <div class="row">
+
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/rock.jpg" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <h4>Example Alumni Name</h4>
+      <p><i>In the lab 2015-18 <br /> Role: Now at Univeristy of X</i></p>
+      <ul style="overflow: hidden">
+  </ul>
+    </div>
+
+  </div>
+
+</div>
+
+<h2 id="administrative-support">Administrative Support</h2>
+
+<p><a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.</p>
+
+:ET
