@@ -60,7 +60,8 @@ iframe {
 <h2> Let's Install the Firmware of the Scientific Tech Stack </h2>
 </div>
 <div id="register" style="text-align: center;">
-<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-success btn-lg">Register to SciOS!</button></a>
+<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-info btn-lg">Register to SciOS!</button></a>
+<a href="https://summit.desci.community/" target="_blank"><button class="btn btn-success btn-lg">Read about DeSci Summit</button></a>
 </div>
 <div style="text-align: center;">
 <i>2601 Walnut St. Denver CO, 80205</i>
@@ -112,39 +113,6 @@ Coming Soon.
 </div>
 
 #### Day Two, February 27th
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-12 col-sm-12">
-<div class = "row">
-<div class="col-sm-8">
-<h4><b>FAIR data and Semantic Publishing</b></h4>
-
-<b>Track Leads:  </b>
-<i>Erik Schultes, GoFAIR foundation | Erik Van Winkle, DeSci Labs | Ronen Tamari, Common Sensemakers</i>
- 
-<b>Time: </b><i>9am-12pm</i>
-
-Coming Soon.
-
-<br/><a href="https://www.notion.so/elianna/FAIR-and-Semantic-Publishing-1e9ec1b48230432f86b644bb39563318?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
-</div>
-
-<div class="col-sm-4">
-
-<b>Lead</b> <br/><a href="https://gofairfoundation.org" target="_blank"><button class="btn btn-success btn-sm">GoFAIR</button></a>
-<a href="https://desci.com/" target="_blank"><button class="btn btn-success btn-sm">DeSci Labs</button></a>
-<a href="https://csensemakers.com/" target="_blank"><button class="btn btn-success btn-sm">Common Sensemakers</button></a>
-<br/>
-<b>Participants</b><br/>
-<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-info btn-sm">Sign up!</button></a>
-
-
-</div>
-</div>
-</div>
-</div>
-</div>
-
 
 <div class="jumbotron">
 <div class="row align-items-end">
@@ -225,7 +193,7 @@ Coming soon.
 <b>Track Lead:</b>
 <i>TBD</i>
 
-<b>Time: </b><i>1am-4pm</i>
+<b>Time: </b><i>1pm-4pm</i>
 
 Coming soon. 
 
@@ -251,6 +219,38 @@ Coming soon.
 </div>
 
 #### Day Four, February 29th
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+<div class = "row">
+<div class="col-sm-8">
+<h4><b>FAIR data and Semantic Publishing</b></h4>
+
+<b>Track Leads:  </b>
+<i>Erik Schultes, GoFAIR foundation | Erik Van Winkle, DeSci Labs | Ronen Tamari, Common Sensemakers</i>
+ 
+<b>Time: </b><i>9am-12pm</i>
+
+Coming Soon.
+
+<br/><a href="https://www.notion.so/elianna/FAIR-and-Semantic-Publishing-1e9ec1b48230432f86b644bb39563318?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+</div>
+
+<div class="col-sm-4">
+
+<b>Lead</b> <br/><a href="https://gofairfoundation.org" target="_blank"><button class="btn btn-success btn-sm">GoFAIR</button></a>
+<a href="https://desci.com/" target="_blank"><button class="btn btn-success btn-sm">DeSci Labs</button></a>
+<a href="https://csensemakers.com/" target="_blank"><button class="btn btn-success btn-sm">Common Sensemakers</button></a>
+<br/>
+<b>Participants</b><br/>
+<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-info btn-sm">Sign up!</button></a>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
 
 <div class="jumbotron">
 <div class="row align-items-end">
@@ -262,7 +262,7 @@ Coming soon.
 <b>Track Leads:</b>
 <i>Don Gossen, Nevermined | Levi, CoopHive </i>
 
-<b>Time: </b><i>9am-12pm</i>
+<b>Time: </b><i>1pm-4pm</i>
 
 Coming soon. 
 
@@ -280,7 +280,6 @@ Coming soon.
 <a href="https://www.algovera.ai/" target="_blank"><button class="btn btn-info btn-sm">Algovera</button></a>
 <a href="https://www.coordination.network/" target="_blank"><button class="btn btn-info btn-sm">coordination.network</button></a>
 <a href="https://csensemakers.com/" target="_blank"><button class="btn btn-info btn-sm">Common Sensemakers</button></a>
-
 
 </div>
 </div>
@@ -302,7 +301,7 @@ Coming soon.
 <b>Track Leads:</b>
 <i>Jonathan Starr, NumFOCUS | Martin, lateral.io</i>
 
-<b>Time:  </b><i>1pm - 4pm</i>
+<b>Time:  </b><i>all days</i>
 
 Coming soon. 
 
