@@ -59,7 +59,7 @@ iframe {
 <h2> It's Time to Build the Scientific Tech Stack </h2>
 </div>
 <div id="register" style="text-align: center;">
-<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0" target="_blank"><button class="btn btn-success btn-lg">Register to SciOS!</button></a>
+<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-success btn-lg">Register to SciOS!</button></a>
 </div>
 
 <div id="about-me">
