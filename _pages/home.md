@@ -41,6 +41,7 @@ iframe {
 }
 #sponsors {
     margin-bottom: 100px;
+}
 #register {
     margin-bottom: 20px;
     margin-top: 20px;
