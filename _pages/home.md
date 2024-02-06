@@ -231,7 +231,7 @@ Coming soon.
  
 <b>Time: </b><i>9am-12pm</i>
 
-Coming Soon.
+FAIR (Findable Accessible Interoperable Reusable) Data is a movement aiming to redefine science by building machine actionability into the scientific record. In this workshop, Dr. Erik Schultes and Erik Van Winkle of the GO FAIR Foundation will be discussing the social, technical and political challenges of bringing human-computer symbiosis to life. We aim to discuss current directions in the FAIR movement alongside their associated challenges, providing a space for novel and innovative solutions.
 
 <br/><a href="https://www.notion.so/elianna/FAIR-and-Semantic-Publishing-1e9ec1b48230432f86b644bb39563318?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
