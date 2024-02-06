@@ -67,7 +67,10 @@ iframe {
   The Scientific Coordination Infrastructure and Operating Systems Workshops (SciOS) is a 4 day event bringing together open science deep infrastructure technicians and engineers to collaborate on shared solutions, standards, and paths forward for a technology-based scientific ecosystem that enables FAIR, collaborative, AI-enhanced, open science practices.
 
   SciOS is organized as a collaboration between [Protocol Labs](protocol.io), [DeSci Labs](desci.com), and the projects and organizations that take lead on tracks and workshops.
+
+  This event takes place as part of the DeSci Summit at Eth Denver. The DeSci Summit amplifies interdisciplinary innovation in Web3 and science in the longest running DeSci Conference. [Read more](https://summit.desci.community/) about the summit and get involved! 
 </div>
+
 
 <div id=schedule>
 <h2> Schedule </h2>
@@ -87,7 +90,7 @@ iframe {
 
 Coming Soon.
 
-<br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+<br/><a href="https://www.notion.so/elianna/DID-and-Permissions-a20f1d098eff43919c0e85152f4a04bc?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
 
 <div class="col-sm-4">
@@ -120,7 +123,7 @@ Coming Soon.
 
 Coming Soon.
 
-<br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+<br/><a href="https://www.notion.so/elianna/FAIR-and-Semantic-Publishing-1e9ec1b48230432f86b644bb39563318?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
 
 <div class="col-sm-4">
@@ -154,7 +157,7 @@ Coming Soon.
 
 Coming Soon. 
 
-<br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+<br/><a href="https://www.notion.so/elianna/Compute-over-Data-650b484682f74dab9e1ad4d997bddf39?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
 
 <div class="col-sm-4">
@@ -187,7 +190,7 @@ Coming Soon.
 
 Coming soon. 
 
-<br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+<br/><a href="https://www.notion.so/elianna/Funding-and-Mechanism-Design-d26052aebc654c6ab5e95ba259a88722?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
 
 <div class="col-sm-4">
@@ -223,7 +226,7 @@ Coming soon.
 
 Coming soon. 
 
-<br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+<br/><a href="https://www.notion.so/elianna/Open-State-Data-Networks-d051a55090c94006ba7f93cb7f6fd12d?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
 
 <div class="col-sm-4">
@@ -260,7 +263,7 @@ Coming soon.
 
 Coming soon. 
 
-<br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+<br/><a href="https://www.notion.so/elianna/AI-and-Mechanism-Design-d35dc5bb20124b1ca506f3b87f29858d?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
 
 <div class="col-sm-4">
@@ -300,7 +303,7 @@ Coming soon.
 
 Coming soon. 
 
-<br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+<br/><a href="https://www.notion.so/elianna/Mapping-the-Ecosystem-Hackathon-e4504a3f826a491e8e75e800069bc68a?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
 
 <div class="col-sm-4">
