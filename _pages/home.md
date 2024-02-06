@@ -33,14 +33,14 @@ iframe {
 }
 
 #about-me {
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 #schedule {
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     
 }
 #sponsors {
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 #register {
     margin-bottom: 20px;
@@ -57,20 +57,17 @@ iframe {
 <br/>
 
 <div style="text-align: center;">
-<h2> It's Time to Build the Scientific Tech Stack </h2>
+<h2> Let's Install the Firmware of the Scientific Tech Stack </h2>
 </div>
 <div id="register" style="text-align: center;">
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-success btn-lg">Register to SciOS!</button></a>
 </div>
 
 <div id="about-me">
-
-  
   The Scientific Coordination Infrastructure and Operating Systems Workshops (SciOS) is a 4 day event bringing together open science deep infrastructure technicians and engineers to collaborate on shared solutions, standards, and paths forward for a technology-based scientific ecosystem that enables FAIR, collaborative, AI-enhanced, open science practices.
 
   SciOS is organized as a collaboration between [Protocol Labs](protocol.io), [DeSci Labs](desci.com), and the projects and organizations that take lead on tracks and workshops.
 </div>
-
 
 <div id=schedule>
 <h2> Schedule </h2>
@@ -108,7 +105,7 @@ Coming Soon.
 </div>
 </div>
 
-#### Day Two, Febrary 27th
+#### Day Two, February 27th
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
@@ -175,7 +172,7 @@ Coming Soon.
 </div>
 </div>
 
-#### Day Three, Febrary 28th
+#### Day Three, February 28th
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
@@ -184,7 +181,7 @@ Coming Soon.
 <h4><b>Funding and Incentive Design</b></h4>
 
 <b>Track Lead:</b>
-<i>Andrew, Drips</i>
+<i> Andrew Dickson, Drips</i>
 
 <b>Time: </b><i>9am-12pm</i>
 
@@ -200,8 +197,9 @@ Coming soon.
 <br/>
 <b>Participants</b><br/>
 <a href="https://www.coordination.network/" target="_blank"><button class="btn btn-info btn-sm">coordination.network</button></a>
-<a href="https://www.opensource.observer/" target="_blank"><button class="btn btn-info btn-sm">Open Source Observer</button></a>button></a>
-<a href="https://hypercerts.org/" target="_blank"><button class="btn btn-info btn-sm">Hypercerts</button></a>button></a>
+<a href="https://www.opensource.observer/" target="_blank"><button class="btn btn-info btn-sm">Open Source Observer</button>
+</a>
+<a href="https://hypercerts.org/" target="_blank"><button class="btn btn-info btn-sm">Hypercerts</button></a>
 
 
 </div>
@@ -221,7 +219,7 @@ Coming soon.
 <b>Track Lead:</b>
 <i>TBD</i>
 
-<b>Time: </b><i>9am-12pm</i>
+<b>Time: </b><i>1am-4pm</i>
 
 Coming soon. 
 
@@ -246,7 +244,7 @@ Coming soon.
 </div>
 </div>
 
-#### Day Four, Febrary 29th
+#### Day Four, February 29th
 
 <div class="jumbotron">
 <div class="row align-items-end">

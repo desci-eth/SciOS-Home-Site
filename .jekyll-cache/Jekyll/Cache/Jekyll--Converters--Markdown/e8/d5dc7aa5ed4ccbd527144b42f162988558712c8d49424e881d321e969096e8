@@ -1,66 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <meta name="description" content="Landing page for SciOS">
-  <link rel="stylesheet" href="/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/">
-  <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/favicon.ico">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
-
-  <link rel="preconnect" href="https://player.vimeo.com">
-  <link rel="preconnect" href="https://i.vimeocdn.com">
-  <link rel="preconnect" href="https://f.vimeocdn.com">
-
-
-
-
-</head>
-
-
-  <body>
-
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id="
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<nav class="navbar sticky-top navbar-expand-md navbar-dark bg-dark">
-    <a class="navbar-brand" href="http://localhost:4000/">
-     <img src="http://localhost:4000/Scios.png" width="40" height="40" style="margin-right:5px" class="d-inline-block align-top" alt="">
-    </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbar-brand" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarColor02">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-              <a class="nav-link" href="http://localhost:4000/">Home</a>
-          </li> 
-          
-           <li class="nav-item">
-            <a class="nav-link" href="http://localhost:4000/#schedule">Schedule</a>
-           </li> 
-          
-           <li class="nav-item">
-            <a class="nav-link" href="http://localhost:4000/#sponsors">Sponsors</a>
-           </li> 
-          
-        </ul>
-  </div>
-</nav>
-
-
-
-    <div class="container-fluid">
-      <div class="row">
-          <div id="homeid" class="col-sm-12 col-xs-12">
-	<style>
+I"�,<style>
 img{
   border-radius: 10px;
 }
@@ -89,14 +27,14 @@ iframe {
 }
 
 #about-me {
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 #schedule {
-    margin-bottom: 50px;
+    margin-bottom: 100px;
     
 }
 #sponsors {
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 #register {
     margin-bottom: 20px;
@@ -112,13 +50,14 @@ iframe {
 <p><br /></p>
 
 <div style="text-align: center;">
-  <h2> Let’s Install the Firmware of the Scientific Tech Stack </h2>
+  <h2> It’s time to install the firmware of the Scientific Tech Stack </h2>
 </div>
 <div id="register" style="text-align: center;">
   <p><a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-success btn-lg">Register to SciOS!</button></a></p>
 </div>
 
 <div id="about-me">
+
   <p>The Scientific Coordination Infrastructure and Operating Systems Workshops (SciOS) is a 4 day event bringing together open science deep infrastructure technicians and engineers to collaborate on shared solutions, standards, and paths forward for a technology-based scientific ecosystem that enables FAIR, collaborative, AI-enhanced, open science practices.</p>
 
   <p>SciOS is organized as a collaboration between <a href="protocol.io">Protocol Labs</a>, <a href="desci.com">DeSci Labs</a>, and the projects and organizations that take lead on tracks and workshops.</p>
@@ -159,7 +98,7 @@ iframe {
     </div>
   </div>
 
-  <h4 id="day-two-february-27th">Day Two, February 27th</h4>
+  <h4 id="day-two-febrary-27th">Day Two, Febrary 27th</h4>
   <div class="jumbotron">
     <div class="row align-items-end">
       <div class="col-md-12 col-sm-12">
@@ -224,7 +163,7 @@ iframe {
     </div>
   </div>
 
-  <h4 id="day-three-february-28th">Day Three, February 28th</h4>
+  <h4 id="day-three-febrary-28th">Day Three, Febrary 28th</h4>
   <div class="jumbotron">
     <div class="row align-items-end">
       <div class="col-md-12 col-sm-12">
@@ -233,7 +172,7 @@ iframe {
             <h4><b>Funding and Incentive Design</b></h4>
 
             <p><b>Track Lead:</b>
-<i> Andrew Dickson, Drips</i></p>
+<i>Andrew, Drips</i></p>
 
             <p><b>Time: </b><i>9am-12pm</i></p>
 
@@ -249,9 +188,8 @@ iframe {
 <br />
 <b>Participants</b><br />
 <a href="https://www.coordination.network/" target="_blank"><button class="btn btn-info btn-sm">coordination.network</button></a>
-<a href="https://www.opensource.observer/" target="_blank"><button class="btn btn-info btn-sm">Open Source Observer</button>
-</a>
-<a href="https://hypercerts.org/" target="_blank"><button class="btn btn-info btn-sm">Hypercerts</button></a></p>
+<a href="https://www.opensource.observer/" target="_blank"><button class="btn btn-info btn-sm">Open Source Observer</button></a>button&gt;&lt;/a&gt;
+<a href="https://hypercerts.org/" target="_blank"><button class="btn btn-info btn-sm">Hypercerts</button></a>button&gt;&lt;/a&gt;</p>
 
           </div>
         </div>
@@ -269,7 +207,7 @@ iframe {
             <p><b>Track Lead:</b>
 <i>TBD</i></p>
 
-            <p><b>Time: </b><i>1am-4pm</i></p>
+            <p><b>Time: </b><i>9am-12pm</i></p>
 
             <p>Coming soon.</p>
 
@@ -294,7 +232,7 @@ iframe {
     </div>
   </div>
 
-  <h4 id="day-four-february-29th">Day Four, February 29th</h4>
+  <h4 id="day-four-febrary-29th">Day Four, Febrary 29th</h4>
 
   <div class="jumbotron">
     <div class="row align-items-end">
@@ -379,42 +317,4 @@ iframe {
   </div>
 
 </div>
-
-  </div>
-
-  
-      </div>
-    </div>
-
-    <br/>
-<section id="footer" class="mt-auto">
-<div class="container-footer">
-  <div class="panel-footer">
-	  <div class="row">
-
-		<div class="col-sm-6">
-		    <h5>Contact</h5>	
-            <p><a href="mailto:ellie@desci.com" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/> <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
-</p>
-		</div>
-
-		<div class="col-sm-6">
-		    <h5>Coordinates</h5>	
-            <p>Denver, Colorado
-</p>
-		</div>
-	  </div>
-	  <div style="text-align: center;">
-      <p>&copy 2024 SciOS </p>
-	</div>
-	</div>
-  </div>
-</div>
-
-<script src="/assets/javascript/bootstrap/jquery.min.js"></script>
-<script src="/assets/javascript/bootstrap/bootstrap.bundle.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET
