@@ -187,7 +187,7 @@ Coming soon.
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-info btn-sm" style="background-color: #e36868; color: white;">Register to Participate!</button>
+  <button class="btn btn-info btn-sm" style="background-color: #e35b5b; color: white;">Register to Participate!</button>
 </a>
 
 </div>
