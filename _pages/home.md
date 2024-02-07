@@ -111,7 +111,7 @@ Coming Soon.
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-info btn-sm" style="background-color: #dc3545; color: white;">Register to Participate!</button>
+  <button class="btn btn-info btn-sm" style="background-color: #e57373; color: white;">Register to Participate!</button>
 </a>
 
 </div>
@@ -147,9 +147,8 @@ Coming Soon.
 <a href="https://protocol.ai/" target="_blank"><button class="btn btn-info btn-sm">Protocol Labs</button></a>
 
 <br/>
-
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-info btn-sm" style="background-color: #dc3545; color: white;">Register to Participate!</button>
+  <button class="btn btn-info btn-sm" style="background-color: #d08383; color: white;">Register to Participate!</button>
 </a>
 
 </div>
@@ -180,19 +179,16 @@ Coming soon.
 <div class="col-sm-4">
 
 <b>Track Lead</b> <br/><a href="https://www.drips.network/" target="_blank"><button class="btn btn-success btn-sm">drips.network</button></a>
-<a href="https://gridcoin.us/" target="_blank"><button class="btn btn-success btn-sm">gridcoin</button></a>
 <br/>
 <b>Workshop Leads</b><br/>
 <a href="https://www.coordination.network/" target="_blank"><button class="btn btn-info btn-sm">coordination.network</button></a>
-<a href="https://www.opensource.observer/" target="_blank"><button class="btn btn-info btn-sm">Open Source Observer</button>
-</a>
+<a href="https://www.opensource.observer/" target="_blank"><button class="btn btn-info btn-sm">Open Source Observer</button></a>
+<a href="https://gridcoin.us/" target="_blank"><button class="btn btn-success btn-info">gridcoin</button></a>
 
 <br/>
-
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-info btn-sm" style="background-color: #dc3545; color: white;">Register to Participate!</button>
+  <button class="btn btn-info btn-sm" style="background-color: #f1948a; color: white;">Register to Participate!</button>
 </a>
-
 
 </div>
 </div>
@@ -231,7 +227,6 @@ Coming soon.
 <a href="https://protocol.ai/" target="_blank"><button class="btn btn-info btn-sm">Protocol Labs</button></a>
 
 <br/>
-
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
   <button class="btn btn-info btn-sm" style="background-color: #dc3545; color: white;">Register to Participate!</button>
 </a>
@@ -262,14 +257,13 @@ FAIR (Findable Accessible Interoperable Reusable) Data is a movement aiming to r
 
 <div class="col-sm-4">
 
-<b>Track Lead</b> <br/><a href="https://gofairfoundation.org" target="_blank"><button class="btn btn-success btn-sm">GoFAIR</button></a>
+<b>Track Leads</b> <br/><a href="https://gofairfoundation.org" target="_blank"><button class="btn btn-success btn-sm">GoFAIR</button></a>
 <a href="https://desci.com/" target="_blank"><button class="btn btn-success btn-sm">DeSci Labs</button></a>
 <a href="https://csensemakers.com/" target="_blank"><button class="btn btn-success btn-sm">Common Sensemakers</button></a>
 <br/>
 <b>Workshop Leads</b><br/><a href="" target="_blank"><button class="btn btn-success btn-sm">TBD</button></a> 
 
 <br/>
-
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
   <button class="btn btn-info btn-sm" style="background-color: #dc3545; color: white;">Register to Participate!</button>
 </a>
@@ -300,7 +294,7 @@ Coming soon.
 
 <div class="col-sm-4">
 
-<b>Track Lead</b> <br/>
+<b>Track Leads</b> <br/>
 <a href="https://decentralized.nevermined.io/" target="_blank"><button class="btn btn-success btn-sm">Nevermined</button></a> 
 <a href="" target="_blank"><button class="btn btn-success btn-sm">CoopHive</button></a>
 <br/>
@@ -311,7 +305,6 @@ Coming soon.
 <a href="https://csensemakers.com/" target="_blank"><button class="btn btn-info btn-sm">Common Sensemakers</button></a>
 
 <br/>
-
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
   <button class="btn btn-info btn-sm" style="background-color: #dc3545; color: white;">Register to Participate!</button>
 </a>
@@ -352,7 +345,6 @@ Coming soon.
 <a href="" target="_blank"><button class="btn btn-info btn-sm">Everyone!</button></a>
 
 <br/>
-
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
   <button class="btn btn-info btn-sm" style="background-color: #dc3545; color: white;">Register to Participate!</button>
 </a>
