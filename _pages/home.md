@@ -82,7 +82,7 @@ iframe {
 
 <div id=schedule>
 <h2> Schedule </h2>
-<h4> Day one, February 26th </h4>
+<h4> Day One, February 26th </h4>
 
 <div class="jumbotron">
 <div class="row align-items-end">
@@ -111,7 +111,7 @@ Coming Soon.
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-info btn-sm" style="background-color: #e57373; color: white;">Register to Participate!</button>
+  <button class="btn btn-info btn-sm" style="background-color: #e35b5b; color: white;">Register to Participate!</button>
 </a>
 
 </div>
@@ -148,7 +148,7 @@ Coming Soon.
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-info btn-sm" style="background-color: #d08383; color: white;">Register to Participate!</button>
+  <button class="btn btn-info btn-sm" style="background-color: #e35b5b; color: white;">Register to Participate!</button>
 </a>
 
 </div>
@@ -228,7 +228,7 @@ Coming soon.
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-info btn-sm" style="background-color: #dc3545; color: white;">Register to Participate!</button>
+  <button class="btn btn-info btn-sm" style="background-color: #e35b5b; color: white;">Register to Participate!</button>
 </a>
 
 </div>
@@ -265,7 +265,7 @@ FAIR (Findable Accessible Interoperable Reusable) Data is a movement aiming to r
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-info btn-sm" style="background-color: #dc3545; color: white;">Register to Participate!</button>
+  <button class="btn btn-info btn-sm" style="background-color: #e35b5b; color: white;">Register to Participate!</button>
 </a>
 
 
@@ -306,7 +306,7 @@ Coming soon.
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-info btn-sm" style="background-color: #dc3545; color: white;">Register to Participate!</button>
+  <button class="btn btn-info btn-sm" style="background-color: #e35b5b; color: white;">Register to Participate!</button>
 </a>
 
 </div>
@@ -346,7 +346,7 @@ Coming soon.
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-info btn-sm" style="background-color: #dc3545; color: white;">Register to Participate!</button>
+  <button class="btn btn-info btn-sm" style="background-color: #e35b5b; color: white;">Register to Participate!</button>
 </a>
 </div>
 </div>
