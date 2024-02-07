@@ -57,11 +57,10 @@ iframe {
 <br/>
 
 <div style="text-align: center;">
-<h2> Let's Install the Firmware of the Scientific Tech Stack </h2>
+<h2> Science Needs a Firmware Update </h2>
 </div>
 <div id="register" style="text-align: center;">
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-info btn-lg">Register to SciOS!</button></a>
-<a href="https://summit.desci.community/" target="_blank"><button class="btn btn-success btn-lg">Read about DeSci Summit</button></a>
 </div>
 <div style="text-align: center;">
 <i>2601 Walnut St. Denver CO, 80205</i>
@@ -70,9 +69,12 @@ iframe {
 <div id="about-me">
   The Scientific Coordination Infrastructure and Operating Systems Workshops (SciOS) is a 4 day event bringing together open science deep infrastructure technicians and engineers to collaborate on shared solutions, standards, and paths forward for a technology-based scientific ecosystem that enables FAIR, collaborative, AI-enhanced, open science practices.
 
-  SciOS is organized as a collaboration between [Protocol Labs](protocol.io), [DeSci Labs](desci.com), and the projects and organizations that take lead on tracks and workshops.
+  SciOS is organized as a collaboration between [Protocol Labs](protocol.io), [DeSci Labs](desci.com), and the people, projects, and organizations that take lead on tracks and workshops.
 
-  This event takes place as part of the DeSci Summit at Eth Denver. The DeSci Summit amplifies interdisciplinary innovation in Web3 and science in the longest running DeSci Conference. [Read more](https://summit.desci.community/) about the summit and get involved! 
+  SciOS is a proud participant in The DeSci Summit, Denver 2024. The DeSci Summit is a community organized constellation of events showcasing and building DeSci tools, organizations, philosophy, and potential.
+</div>
+<div style="text-align: center;">
+<a href="https://summit.desci.community/" target="_blank"><button class="btn btn-success btn-lg">Explore the Rest of the DeSci Summit, Denver 2024</button></a>
 </div>
 
 
