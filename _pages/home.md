@@ -108,9 +108,7 @@ Coming Soon.
 
 <b>Workshop Leads</b><br/>
 <a href="https://opensource.org/" target="_blank"><button class="btn btn-success btn-sm">TBD</button></a>
-
 <br/>
-
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
   <button class="btn btn-info btn-sm" style="background-color: #dc3545; color: white;">Register to Participate!</button>
 </a>
