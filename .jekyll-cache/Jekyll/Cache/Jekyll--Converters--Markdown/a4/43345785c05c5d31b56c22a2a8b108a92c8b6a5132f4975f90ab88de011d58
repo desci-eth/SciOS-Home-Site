@@ -1,66 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <meta name="description" content="Landing page for SciOS">
-  <link rel="stylesheet" href="/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/">
-  <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/favicon.ico">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
-
-  <link rel="preconnect" href="https://player.vimeo.com">
-  <link rel="preconnect" href="https://i.vimeocdn.com">
-  <link rel="preconnect" href="https://f.vimeocdn.com">
-
-
-
-
-</head>
-
-
-  <body>
-
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id="
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<nav class="navbar sticky-top navbar-expand-md navbar-dark bg-dark">
-    <a class="navbar-brand" href="http://localhost:4000/">
-     <img src="http://localhost:4000/Scios.png" width="40" height="40" style="margin-right:5px" class="d-inline-block align-top" alt="">
-    </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbar-brand" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarColor02">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-              <a class="nav-link" href="http://localhost:4000/">Home</a>
-          </li> 
-          
-           <li class="nav-item">
-            <a class="nav-link" href="http://localhost:4000/#schedule">Schedule</a>
-           </li> 
-          
-           <li class="nav-item">
-            <a class="nav-link" href="http://localhost:4000/#sponsors">Sponsors</a>
-           </li> 
-          
-        </ul>
-  </div>
-</nav>
-
-
-
-    <div class="container-fluid">
-      <div class="row">
-          <div id="homeid" class="col-sm-12 col-xs-12">
-	<style>
+I"MD<style>
 img{
   border-radius: 10px;
 }
@@ -442,75 +380,33 @@ iframe {
   </div>
 
   <div id="vision">
+    <p>##Our Vision</p>
 
-    <h2>Our Vision </h2>
-    <p>SciOS was conceived to tackle the challenges hindering the DeSci movement. Our primary goal is to transcend the limitations of conventional gatherings that often focus on reiterating solved issues or promoting products. Instead, SciOS is dedicated to fostering a dynamic environment where participants engage in meaningful work—mapping out technical challenges, addressing interoperability issues, and collaboratively finding solutions on the spot.</p>
+    <p>SciOS was conceived to tackle the challenges hindering the DeSci movement. Our primary goal is to transcend the limitations of conventional gatherings that often focus on reiterating solved issues or promoting products. Instead, SciOS is dedicated to fostering a dynamic environment where participants engage in meaningful work—mapping out technical challenges, addressing interoperability issues, and collaboratively finding solutions on the spot.
 
-    <p>The essence of SciOS is encapsulated in a series of technical workshops designed to explore and solve problems associated with employing a decentralized stack for scientific advancement. At this nascent stage, the DeSci movement is ripe with potential, offering a unique opportunity to introduce a broad audience to the advantages of web3 technologies. </p>
+The essence of SciOS is encapsulated in a series of technical workshops designed to explore and solve problems associated with employing a decentralized stack for scientific advancement. At this nascent stage, the DeSci movement is ripe with potential, offering a unique opportunity to introduce a broad audience to the advantages of web3 technologies. 
 
-    <p>The conference structure is organized into half-day tracks focusing on critical areas such as Open State Data Networks, Compute, FAIR and Semantic Publishing, DID and Permissions, Funding and Incentive Design, AI in Open Science, and Mapping the Ecosystem.</p>
+The conference structure is organized into half-day tracks focusing on critical areas such as Open State Data Networks, Compute, FAIR and Semantic Publishing, DID and Permissions, Funding and Incentive Design, AI in Open Science, and Mapping the Ecosystem.
 
-    <p>In line with our vision, we approach the content of these sessions with an open mind, prioritizing the collective progress over any preconceived notions. We encourage our track and workshop leads to work together, aligning their sessions towards tangible advancements. This collaborative effort aims at identifying and overcoming obstacles, brainstorming actionable solutions, and gathering the diverse needs within the DeSci ecosystem. Through an engaging and productive series of solution-focused technical sessions, we invite all participants to contribute to a vision that is both inclusive and forward-looking, ensuring that our agenda is filled with content that not only aligns with but actively propels our shared objectives forward.</p>
+In line with our vision, we approach the content of these sessions with an open mind, prioritizing the collective progress over any preconceived notions. We encourage our track and workshop leads to work together, aligning their sessions towards tangible advancements. This collaborative effort aims at identifying and overcoming obstacles, brainstorming actionable solutions, and gathering the diverse needs within the DeSci ecosystem. Through an engaging and productive series of solution-focused technical sessions, we invite all participants to contribute to a vision that is both inclusive and forward-looking, ensuring that our agenda is filled with content that not only aligns with but actively propels our shared objectives forward.
 
-    <p>To adhere to this vision we’re designing the conference around the following three core questions</p>
-    <ol>
-      <li>What deep tech solutions are enabling the missions of DeSci projects?</li>
-      <li>What deep tech hurdles still hold them back?</li>
-      <li>What deep tech is still needed for their missions to excel and accelerate?</li>
-    </ol>
-  </div>
-
-  <div id="sponsors">
-    <h2 id="sponsors">Sponsors</h2>
-    <div class="jumbotron" style="background-color: whitesmoke;">
-      <div style="display:block; text-align:center; margin-left:auto; margin-right:auto;">
-        <p><a href="https://www.protocol.ai" target="_blank"><img src="http://localhost:4000/images/protocollabs.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.desci.com" target="_blank"><img src="http://localhost:4000/images/descilabs.svg" style="max-height: 80px; max-width: 200px; margin: 1%" /></a></p>
-      </div>
-    </div>
-
-    <div id="register" style="text-align: center;">
-      <p><a href="2024SciOS_Funding.pdf" target="_blank"><button class="btn btn-success btn-lg">Fund this Initiative</button></a></p>
-    </div>
-    <p>Sponsors help us to make this event great, including setting up the event, providing ongoing management of the work products that come out of the sessions and building</p>
-  </div>
-
-</div>
-
-  </div>
-
-  
-      </div>
-    </div>
-
-    <br/>
-<section id="footer" class="mt-auto">
-<div class="container-footer">
-  <div class="panel-footer">
-	  <div class="row">
-
-		<div class="col-sm-6">
-		    <h5>Contact</h5>	
-            <p><a href="mailto:ellie@desci.com" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact SciOS via email</a> <br/> <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+There are three core questions
 </p>
-		</div>
 
-		<div class="col-sm-6">
-		    <h5>Coordinates</h5>	
-            <p>2601 Walnut St. Denver CO, 80205
-</p>
-		</div>
-	  </div>
-	  <div style="text-align: center;">
-      <p>&copy 2024 SciOS </p>
-	</div>
-	</div>
+    <div id="sponsors">
+      <h2 id="sponsors">Sponsors</h2>
+      <div class="jumbotron" style="background-color: whitesmoke;">
+        <div style="display:block; text-align:center; margin-left:auto; margin-right:auto;">
+          <p><a href="https://www.protocol.ai" target="_blank"><img src="http://localhost:4000/images/protocollabs.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.desci.com" target="_blank"><img src="http://localhost:4000/images/descilabs.svg" style="max-height: 80px; max-width: 200px; margin: 1%" /></a></p>
+        </div>
+      </div>
+
+      <div id="register" style="text-align: center;">
+        <p><a href="2024SciOS_Funding.pdf" target="_blank"><button class="btn btn-success btn-lg">Fund this Initiative</button></a></p>
+      </div>
+      <p>Sponsors help us to make this event great, including setting up the event, providing ongoing management of the work products that come out of the sessions and building</p>
+    </div>
+
   </div>
 </div>
-
-<script src="/assets/javascript/bootstrap/jquery.min.js"></script>
-<script src="/assets/javascript/bootstrap/bootstrap.bundle.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET

@@ -114,7 +114,7 @@ Coming Soon.
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-info btn-sm" style="background-color: #e35b5b; color: white;">Register to Participate!</button>
+  <button class="btn btn-danger btn-sm">Register to Participate!</button>
 </a>
 
 </div>
@@ -151,7 +151,7 @@ Coming Soon.
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-info btn-sm" style="background-color: #e35b5b; color: white;">Register to Participate!</button>
+  <button class="btn btn-danger btn-sm">Register to Participate!</button>
 </a>
 
 </div>
@@ -187,9 +187,8 @@ Coming Soon.
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-info btn-sm" style="background-color: #e35b5b; color: white;">Register to Participate!</button>
+  <button class="btn btn-danger btn-sm">Register to Participate!</button>
 </a>
-
 </div>
 </div>
 
@@ -226,7 +225,7 @@ Coming soon.
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-info btn-sm" style="background-color: #e35b5b; color: white;">Register to Participate!</button>
+  <button class="btn btn-danger btn-sm">Register to Participate!</button>
 </a>
 
 </div>
@@ -267,7 +266,7 @@ Coming soon.
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-info btn-sm" style="background-color: #e35b5b; color: white;">Register to Participate!</button>
+  <button class="btn btn-danger btn-sm">Register to Participate!</button>
 </a>
 
 </div>
@@ -304,7 +303,7 @@ FAIR (Findable Accessible Interoperable Reusable) Data is a movement aiming to r
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-info btn-sm" style="background-color: #e35b5b; color: white;">Register to Participate!</button>
+  <button class="btn btn-danger btn-sm">Register to Participate!</button>
 </a>
 
 
@@ -345,7 +344,7 @@ Coming soon.
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-info btn-sm" style="background-color: #e35b5b; color: white;">Register to Participate!</button>
+  <button class="btn btn-danger btn-sm">Register to Participate!</button>
 </a>
 
 </div>
@@ -385,12 +384,29 @@ Coming soon.
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-info btn-sm" style="background-color: #e35b5b; color: white;">Register to Participate!</button>
+  <button class="btn btn-danger btn-sm">Register to Participate!</button>
 </a>
 </div>
 </div>
 </div>
 </div>
+</div>
+
+<div id=vision>
+
+<h2>Our Vision </h2>
+<p>SciOS was conceived to tackle the challenges hindering the DeSci movement. Our primary goal is to transcend the limitations of conventional gatherings that often focus on reiterating solved issues or promoting products. Instead, SciOS is dedicated to fostering a dynamic environment where participants engage in meaningful work—mapping out technical challenges, addressing interoperability issues, and collaboratively finding solutions on the spot.</p>
+
+<p>The essence of SciOS is encapsulated in a series of technical workshops designed to explore and solve problems associated with employing a decentralized stack for scientific advancement. At this nascent stage, the DeSci movement is ripe with potential, offering a unique opportunity to introduce a broad audience to the advantages of web3 technologies. </p>
+
+<p>The conference structure is organized into half-day tracks focusing on critical areas such as Open State Data Networks, Compute, FAIR and Semantic Publishing, DID and Permissions, Funding and Incentive Design, AI in Open Science, and Mapping the Ecosystem.</p>
+
+<p>In line with our vision, we approach the content of these sessions with an open mind, prioritizing the collective progress over any preconceived notions. We encourage our track and workshop leads to work together, aligning their sessions towards tangible advancements. This collaborative effort aims at identifying and overcoming obstacles, brainstorming actionable solutions, and gathering the diverse needs within the DeSci ecosystem. Through an engaging and productive series of solution-focused technical sessions, we invite all participants to contribute to a vision that is both inclusive and forward-looking, ensuring that our agenda is filled with content that not only aligns with but actively propels our shared objectives forward.</p>
+
+To adhere to this vision we're designing the conference around the following three core questions
+1. What deep tech solutions are enabling the missions of DeSci projects?
+2. What deep tech hurdles still hold them back? 
+3. What deep tech is still needed for their missions to excel and accelerate?
 </div>
 
 <div id=sponsors>
