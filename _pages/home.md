@@ -60,7 +60,7 @@ iframe {
 <h2> Science Needs a Firmware Update </h2>
 </div>
 <div id="register" style="text-align: center;">
-<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-success btn-lg">Register to SciOS!</button></a>
+<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-success btn-lg">Register to Attend SciOS!</button></a>
 </div>
 <div style="text-align: center;">
 <i>February 26th - 29th</i><br>
