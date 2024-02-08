@@ -242,7 +242,7 @@ Coming soon.
 <h4><b>Open State Data Networks Workshops</b></h4>
 
 <b>Track Lead:</b>
-<i>TBD</i>
+<i>Will Scott</i>
 
 <b>Time: </b><i>1pm-4pm</i>
 
@@ -253,7 +253,7 @@ Coming soon.
 
 <div class="col-sm-4">
 
-<b>Track Lead</b> <br/><a href="" target="_blank"><button class="btn btn-success btn-sm">TBD</button></a> 
+<b>Track Lead</b> <br/><a href="https://wills.co.tt" target="_blank"><button class="btn btn-success btn-sm">Will Scott</button></a> 
 <br/>
 <b>Workshop Leads</b><br/>
 <a href="https://www.desci.com/" target="_blank"><button class="btn btn-info btn-sm">DeSci Labs</button></a>
