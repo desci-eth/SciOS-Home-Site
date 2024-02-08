@@ -340,7 +340,7 @@ Coming soon.
 <div class="col-sm-4">
 
 <b>Track Leads</b> <br/><a href="https://numfocus.org/" target="_blank"><button class="btn btn-success btn-sm">NumFOCUS</button></a>
-<a href="https://www.coordination.network/" target="_blank"><button class="btn btn-info btn-sm">coordination.network</button></a>
+<a href="https://www.coordination.network/" target="_blank"><button class="btn btn-success btn-sm">coordination.network</button></a>
 <br/>
 <b>Participants</b><br/>
 <a href="" target="_blank"><button class="btn btn-info btn-sm">Everyone!</button></a>
