@@ -122,6 +122,42 @@ Coming Soon.
 </div>
 
 #### Day Two, February 27th
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+<div class = "row">
+<div class="col-sm-8">
+<h4><b>DID and Permissions</b></h4>
+
+<b>Track Lead:</b>
+<i>Shady el Damaty, Holonym</i>
+ 
+<b>Time: </b><i>9am-noon</i>
+
+Coming Soon.
+
+<br/><a href="https://www.notion.so/elianna/DID-and-Permissions-a20f1d098eff43919c0e85152f4a04bc?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+</div>
+
+<div class="col-sm-4">
+
+<b>Track Lead</b> <br/>
+<a href="https://www.holonym.id/" target="_blank"><button class="btn btn-success btn-sm">Holonym</button></a>
+
+<b>Workshop Leads</b><br/>
+<a href="https://opensource.org/" target="_blank"><button class="btn btn-success btn-sm">TBD</button></a>
+
+<br/>
+<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
+  <button class="btn btn-info btn-sm" style="background-color: #e35b5b; color: white;">Register to Participate!</button>
+</a>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
 
 <div class="jumbotron">
 <div class="row align-items-end">
