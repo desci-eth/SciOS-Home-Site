@@ -127,7 +127,7 @@ Coming Soon.
 <div class="col-md-12 col-sm-12">
 <div class = "row">
 <div class="col-sm-8">
-<h4><b>DID and Permissions</b></h4>
+<h4><b>DID and Permissions Workshops</b></h4>
 
 <b>Track Lead:</b>
 <i>Shady el Damaty, Holonym</i>
@@ -164,7 +164,7 @@ Coming Soon.
 <div class="col-md-12 col-sm-12">
 <div class = "row">
 <div class="col-sm-8">
-<h4><b>Compute over Data</b></h4>
+<h4><b>Compute over Data Workshops</b></h4>
 
 <b>Track Lead:</b>
 <i>David Aronchick, Baccalhau</i>
@@ -201,7 +201,7 @@ Coming Soon.
 <div class="col-md-12 col-sm-12">
 <div class = "row">
 <div class="col-sm-8">
-<h4><b>Funding and Incentive Design</b></h4>
+<h4><b>Funding and Incentive Design Workshops</b></h4>
 
 <b>Track Lead:</b>
 <i> Andrew Dickson, Drips</i>
@@ -239,7 +239,7 @@ Coming soon.
 <div class="col-md-12 col-sm-12">
 <div class = "row">
 <div class="col-sm-8">
-<h4><b>Open State Data Networks</b></h4>
+<h4><b>Open State Data Networks Workshops</b></h4>
 
 <b>Track Lead:</b>
 <i>TBD</i>
@@ -280,7 +280,7 @@ Coming soon.
 <div class="col-md-12 col-sm-12">
 <div class = "row">
 <div class="col-sm-8">
-<h4><b>FAIR data and Semantic Publishing</b></h4>
+<h4><b>FAIR data and Semantic Publishing Workshops</b></h4>
 
 <b>Track Leads:  </b>
 <i>Erik Schultes, GoFAIR foundation | Erik Van Winkle, DeSci Labs | Ronen Tamari, Common Sensemakers</i>
@@ -317,7 +317,7 @@ FAIR (Findable Accessible Interoperable Reusable) Data is a movement aiming to r
 <div class="col-md-12 col-sm-12">
 <div class = "row">
 <div class="col-sm-8">
-<h4><b>AI in Open Science</b></h4>
+<h4><b>AI in Open Science Workshops</b></h4>
 
 <b>Track Leads:</b>
 <i>Don Gossen, Nevermined | Levi, CoopHive </i>
