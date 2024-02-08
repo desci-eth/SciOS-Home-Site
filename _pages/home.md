@@ -60,9 +60,10 @@ iframe {
 <h2> Science Needs a Firmware Update </h2>
 </div>
 <div id="register" style="text-align: center;">
-<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-success btn-lg">Register to SciOS!</button></a>
+<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-success btn-lg">Register to Attend SciOS!</button></a>
 </div>
 <div style="text-align: center;">
+<i>February 26th - 29th</i><br>
 <i>2601 Walnut St. Denver CO, 80205</i>
 </div>
 
@@ -70,7 +71,9 @@ iframe {
   The Scientific Coordination Infrastructure and Operating Systems Workshops (SciOS) is a 4 day event bringing together open science deep infrastructure technicians and engineers to collaborate on shared solutions, standards, and paths forward for a technology-based scientific ecosystem that enables FAIR, collaborative, AI-enhanced, open science practices.
 
   SciOS is organized as a collaboration between [Protocol Labs](protocol.io), [DeSci Labs](desci.com), and the people, projects, and organizations that take lead on tracks and workshops.
-
+  
+  The event and workshops are free and open for all to attend.
+  
   SciOS is a proud participant in The DeSci Summit, Denver 2024. The DeSci Summit is a community organized constellation of events showcasing and building DeSci tools, organizations, philosophy, and potential.
 </div>
 <div style="text-align: center; margin-top: 0px;">
@@ -89,12 +92,49 @@ iframe {
 <div class="col-md-12 col-sm-12">
 <div class = "row">
 <div class="col-sm-8">
-<h4><b>DID and Permissions</b></h4>
+<h4><b>Applications, Outputs, and Community Showcase</b></h4>
+
+<b>Track Lead:</b>
+<i>SciOS</i>
+ 
+<b>Time: </b><i>9am-4pm</i>
+
+Coming Soon.
+
+<br/><a href="https://www.notion.so/elianna/DID-and-Permissions-a20f1d098eff43919c0e85152f4a04bc?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+</div>
+
+<div class="col-sm-4">
+
+<b>Track Lead</b> <br/>
+<a href="" target="_blank"><button class="btn btn-success btn-sm">SciOS</button></a>
+
+<b>Showcase Participants</b><br/>
+<a href="" target="_blank"><button class="btn btn-success btn-sm">TBD</button></a>
+
+<br/>
+<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
+  <button class="btn btn-info btn-sm" style="background-color: #e35b5b; color: white;">Register to Participate!</button>
+</a>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+#### Day Two, February 27th
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+<div class = "row">
+<div class="col-sm-8">
+<h4><b>DID and Permissions Workshops</b></h4>
 
 <b>Track Lead:</b>
 <i>Shady el Damaty, Holonym</i>
  
-<b>Time: </b><i>1pm-4pm</i>
+<b>Time: </b><i>9am-12pm</i>
 
 Coming Soon.
 
@@ -120,14 +160,13 @@ Coming Soon.
 </div>
 </div>
 
-#### Day Two, February 27th
 
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
 <div class = "row">
 <div class="col-sm-8">
-<h4><b>Compute over Data</b></h4>
+<h4><b>Compute over Data Workshops</b></h4>
 
 <b>Track Lead:</b>
 <i>David Aronchick, Baccalhau</i>
@@ -164,7 +203,7 @@ Coming Soon.
 <div class="col-md-12 col-sm-12">
 <div class = "row">
 <div class="col-sm-8">
-<h4><b>Funding and Incentive Design</b></h4>
+<h4><b>Funding and Incentive Design Workshops</b></h4>
 
 <b>Track Lead:</b>
 <i> Andrew Dickson, Drips</i>
@@ -202,10 +241,10 @@ Coming soon.
 <div class="col-md-12 col-sm-12">
 <div class = "row">
 <div class="col-sm-8">
-<h4><b>Open State Data Networks</b></h4>
+<h4><b>Open State Data Networks Workshops</b></h4>
 
 <b>Track Lead:</b>
-<i>TBD</i>
+<i>Will Scott</i>
 
 <b>Time: </b><i>1pm-4pm</i>
 
@@ -216,7 +255,7 @@ Coming soon.
 
 <div class="col-sm-4">
 
-<b>Track Lead</b> <br/><a href="" target="_blank"><button class="btn btn-success btn-sm">TBD</button></a> 
+<b>Track Lead</b> <br/><a href="https://wills.co.tt" target="_blank"><button class="btn btn-success btn-sm">Will Scott</button></a> 
 <br/>
 <b>Workshop Leads</b><br/>
 <a href="https://www.desci.com/" target="_blank"><button class="btn btn-info btn-sm">DeSci Labs</button></a>
@@ -243,7 +282,7 @@ Coming soon.
 <div class="col-md-12 col-sm-12">
 <div class = "row">
 <div class="col-sm-8">
-<h4><b>FAIR data and Semantic Publishing</b></h4>
+<h4><b>FAIR data and Semantic Publishing Workshops</b></h4>
 
 <b>Track Leads:  </b>
 <i>Erik Schultes, GoFAIR foundation | Erik Van Winkle, DeSci Labs | Ronen Tamari, Common Sensemakers</i>
@@ -261,7 +300,7 @@ FAIR (Findable Accessible Interoperable Reusable) Data is a movement aiming to r
 <a href="https://desci.com/" target="_blank"><button class="btn btn-success btn-sm">DeSci Labs</button></a>
 <a href="https://csensemakers.com/" target="_blank"><button class="btn btn-success btn-sm">Common Sensemakers</button></a>
 <br/>
-<b>Workshop Leads</b><br/><a href="" target="_blank"><button class="btn btn-success btn-sm">TBD</button></a> 
+<b>Workshop Leads</b><br/><a href="" target="_blank"><button class="btn btn-info btn-sm">TBD</button></a> 
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
@@ -280,7 +319,7 @@ FAIR (Findable Accessible Interoperable Reusable) Data is a movement aiming to r
 <div class="col-md-12 col-sm-12">
 <div class = "row">
 <div class="col-sm-8">
-<h4><b>AI in Open Science</b></h4>
+<h4><b>AI in Open Science Workshops</b></h4>
 
 <b>Track Leads:</b>
 <i>Don Gossen, Nevermined | Levi, CoopHive </i>
@@ -327,7 +366,7 @@ Coming soon.
 <h4><b>Mapping the Ecosystem and Hackathon</b></h4>
 
 <b>Track Leads:</b>
-<i>Jonathan Starr, NumFOCUS | Martin, lateral.io</i>
+<i>Jonathan Starr, NumFOCUS | Martin, coordination.network</i>
 
 <b>Time:  </b><i>all days</i>
 
@@ -339,7 +378,7 @@ Coming soon.
 <div class="col-sm-4">
 
 <b>Track Leads</b> <br/><a href="https://numfocus.org/" target="_blank"><button class="btn btn-success btn-sm">NumFOCUS</button></a>
-<a href="https://www.lateral.io/" target="_blank"><button class="btn btn-success btn-sm">Lateral</button></a>
+<a href="https://www.coordination.network/" target="_blank"><button class="btn btn-success btn-sm">coordination.network</button></a>
 <br/>
 <b>Participants</b><br/>
 <a href="" target="_blank"><button class="btn btn-info btn-sm">Everyone!</button></a>
