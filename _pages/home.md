@@ -63,6 +63,7 @@ iframe {
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-success btn-lg">Register to SciOS!</button></a>
 </div>
 <div style="text-align: center;">
+<i>February 26th - 29th</i><br>
 <i>2601 Walnut St. Denver CO, 80205</i>
 </div>
 
@@ -327,7 +328,7 @@ Coming soon.
 <h4><b>Mapping the Ecosystem and Hackathon</b></h4>
 
 <b>Track Leads:</b>
-<i>Jonathan Starr, NumFOCUS | Martin, lateral.io</i>
+<i>Jonathan Starr, NumFOCUS | Martin, coordination.network</i>
 
 <b>Time:  </b><i>all days</i>
 
@@ -339,7 +340,7 @@ Coming soon.
 <div class="col-sm-4">
 
 <b>Track Leads</b> <br/><a href="https://numfocus.org/" target="_blank"><button class="btn btn-success btn-sm">NumFOCUS</button></a>
-<a href="https://www.lateral.io/" target="_blank"><button class="btn btn-success btn-sm">Lateral</button></a>
+<a href="https://www.coordination.network/" target="_blank"><button class="btn btn-info btn-sm">coordination.network</button></a>
 <br/>
 <b>Participants</b><br/>
 <a href="" target="_blank"><button class="btn btn-info btn-sm">Everyone!</button></a>
