@@ -71,7 +71,9 @@ iframe {
   The Scientific Coordination Infrastructure and Operating Systems Workshops (SciOS) is a 4 day event bringing together open science deep infrastructure technicians and engineers to collaborate on shared solutions, standards, and paths forward for a technology-based scientific ecosystem that enables FAIR, collaborative, AI-enhanced, open science practices.
 
   SciOS is organized as a collaboration between [Protocol Labs](protocol.io), [DeSci Labs](desci.com), and the people, projects, and organizations that take lead on tracks and workshops.
-
+  
+  The event and workshops are free and open for all to attend.
+  
   SciOS is a proud participant in The DeSci Summit, Denver 2024. The DeSci Summit is a community organized constellation of events showcasing and building DeSci tools, organizations, philosophy, and potential.
 </div>
 <div style="text-align: center; margin-top: 0px;">
