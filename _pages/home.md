@@ -298,7 +298,7 @@ FAIR (Findable Accessible Interoperable Reusable) Data is a movement aiming to r
 <a href="https://desci.com/" target="_blank"><button class="btn btn-success btn-sm">DeSci Labs</button></a>
 <a href="https://csensemakers.com/" target="_blank"><button class="btn btn-success btn-sm">Common Sensemakers</button></a>
 <br/>
-<b>Workshop Leads</b><br/><a href="" target="_blank"><button class="btn btn-success btn-sm">TBD</button></a> 
+<b>Workshop Leads</b><br/><a href="" target="_blank"><button class="btn btn-info btn-sm">TBD</button></a> 
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
