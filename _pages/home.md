@@ -90,12 +90,12 @@ iframe {
 <div class="col-md-12 col-sm-12">
 <div class = "row">
 <div class="col-sm-8">
-<h4><b>DID and Permissions</b></h4>
+<h4><b>Applications, Outputs, and Community Showcase</b></h4>
 
 <b>Track Lead:</b>
-<i>Shady el Damaty, Holonym</i>
+<i>SciOS</i>
  
-<b>Time: </b><i>1pm-4pm</i>
+<b>Time: </b><i>9am-4pm</i>
 
 Coming Soon.
 
@@ -105,10 +105,10 @@ Coming Soon.
 <div class="col-sm-4">
 
 <b>Track Lead</b> <br/>
-<a href="https://www.holonym.id/" target="_blank"><button class="btn btn-success btn-sm">Holonym</button></a>
+<a href="" target="_blank"><button class="btn btn-success btn-sm">SciOS</button></a>
 
-<b>Workshop Leads</b><br/>
-<a href="https://opensource.org/" target="_blank"><button class="btn btn-success btn-sm">TBD</button></a>
+<b>Showcase Participants</b><br/>
+<a href="" target="_blank"><button class="btn btn-success btn-sm">TBD</button></a>
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
@@ -132,7 +132,7 @@ Coming Soon.
 <b>Track Lead:</b>
 <i>Shady el Damaty, Holonym</i>
  
-<b>Time: </b><i>9am-noon</i>
+<b>Time: </b><i>9am-12pm</i>
 
 Coming Soon.
 
