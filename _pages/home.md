@@ -321,7 +321,7 @@ FAIR (Findable Accessible Interoperable Reusable) Data is a movement aiming to r
 <h4><b>AI in Open Science Workshops</b></h4>
 
 <b>Track Leads:</b>
-<i>Don Gossen, Nevermined | Levi, CoopHive </i>
+<i>Don Gossen, Nevermined | Levi Rybalov, CoopHive </i>
 
 <b>Time: </b><i>1pm-4pm</i>
 
