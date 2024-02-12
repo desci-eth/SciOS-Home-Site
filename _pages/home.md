@@ -99,9 +99,9 @@ iframe {
  
 <b>Time: </b><i>9am-4pm</i>
 
-Coming Soon.
+A day of showcasing DeSci applications, outputs, and community members. Join us for an open platform to talk directly about your DeSci project, how you use DeSci applications, or to have a fireside chat with your Desci peers. Discuss the implications of DeSci, your thoughts on and vision for the future of science, and how we can use Web3 to make a more efficient, productive, equitable, and democratic system of science!"
 
-<br/><a href="https://www.notion.so/elianna/DID-and-Permissions-a20f1d098eff43919c0e85152f4a04bc?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+<br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
 
 <div class="col-sm-4">
@@ -175,7 +175,7 @@ Presenters may use the time to introduce a problem for scientific identity manag
 
 <b>Time: </b> <i>1pm-4pm</i>
 
-Coming Soon. 
+Science today often requires terabytes of data or more. The volume of data involved stretches our current infrastructure beyond its bandwidth and storage limits. This reality makes Open Data nearly impossible on the current tech stack. The Compute Over Data Track aims to understand the difficulties Decentralized Science might face in sending compute jobs to the data. This track seeks to answer questions like - how might we optimize the data processing at the source, minimizing latency and maximizing efficiency? How can we ensure the verifiability of data that we never evaluate ourselves? And what are the remaining security limitations to analyzing 'proprietary' data at the source?
 
 <br/><a href="https://www.notion.so/elianna/Compute-over-Data-650b484682f74dab9e1ad4d997bddf39?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
@@ -211,7 +211,7 @@ Coming Soon.
 
 <b>Time: </b><i>9am-12pm</i>
 
-Coming soon. 
+The Funding and Incentives Track will explore ways in which funding solutions and economic mechanisms can contribute to the development of decentralized science. Can we improve on traditional science funding by utilizing digital currencies and new funding designs from web2 and web3? What economic mechanisms and incentives do we think will be the most effective for supporting high-quality collaborative decentralized sciance over the long haul? We'll discuss these questions and many more with the high-level goal of building the best money lego blocks to support the future of open science.
 
 <br/><a href="https://www.notion.so/elianna/Funding-and-Mechanism-Design-d26052aebc654c6ab5e95ba259a88722?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
@@ -371,7 +371,7 @@ Science has relied on advanced analytics capabilities to push the state of the a
 
 <b>Time:  </b><i>all days</i>
 
-Coming soon. 
+To better understand and guide our DeSci movements among Open movement, let us trace the complete, ever expanding quilt of Open. Let us build the Encyclopédie of the digital era, an Open map of that which is Open -- software, data, models, policies, knowledge, papers, resources, and the people behind them all -- A map that can be easily charted by anyone seeking to create, support, or explore foundational knowledge, or the translation thereof. This workshop will run across all days and seek to identify the infrastructure, tools, and other resources being utilized to enable the DeSci dream, and to identify those we still need.
 
 <br/><a href="https://www.notion.so/elianna/Mapping-the-Ecosystem-Hackathon-e4504a3f826a491e8e75e800069bc68a?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
