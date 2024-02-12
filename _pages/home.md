@@ -99,9 +99,8 @@ iframe {
  
 <b>Time: </b><i>9am-4pm</i>
 
-A day of showcasing DeSci applications, outputs, and community members. Join us for an open platform to talk directly about your DeSci project, how you use DeSci applications, or to have a fireside chat with your Desci peers. Discuss the implications of DeSci, your thoughts on and vision for the future of science, and how we can use Web3 to make a more efficient, productive, equitable, and democratic system of science!"
+A day of showcasing DeSci applications, outputs, and community members. Join us for an open platform to talk directly about your DeSci project, how you use DeSci applications, or to have a fireside chat with your Desci peers. Discuss the implications of DeSci, your thoughts on and vision for the future of science, and how we can use Web3 to make a more efficient, productive, equitable, and democratic system of science!
 
-<br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
 
 <div class="col-sm-4">
@@ -110,11 +109,11 @@ A day of showcasing DeSci applications, outputs, and community members. Join us 
 <a href="" target="_blank"><button class="btn btn-success btn-sm">SciOS</button></a>
 
 <b>Showcase Participants</b><br/>
-<a href="" target="_blank"><button class="btn btn-success btn-sm">TBD</button></a>
+<a href="" target="https://airtable.com/apptAi2tFe7I5lDvn/pagUBFXku09wiEfGl/form"><button class="btn btn-success btn-sm">Apply to have a showcase!</button></a>
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-danger btn-sm">Register to Participate!</button>
+  <button class="btn btn-info btn-sm" style="background-color: #e35b5b; color: white;">Register to attend!</button>
 </a>
 
 </div>
@@ -136,7 +135,7 @@ A day of showcasing DeSci applications, outputs, and community members. Join us 
  
 <b>Time: </b><i>9am-12pm</i>
 
-Showcasing tools and approaches for identity authentication and management to fit requirements for decentralized science applications and infrastructure.
+Join Ceramic, Orbis, and Holonym as we explore technical solutions for decentralized identity in decentralized science applications.
 
 Presenters may use the time to introduce a problem for scientific identity management and explore potential solutions. The focus should be on concrete technical solutions, not on marketing a project or coin.
 
@@ -149,7 +148,8 @@ Presenters may use the time to introduce a problem for scientific identity manag
 <a href="https://www.holonym.id/" target="_blank"><button class="btn btn-success btn-sm">Holonym</button></a>
 
 <b>Workshop Leads</b><br/>
-<a href="https://opensource.org/" target="_blank"><button class="btn btn-success btn-sm">TBD</button></a>
+<a href="https://useorbis.com/" target="_blank"><button class="btn btn-info btn-sm">Orbis</button></a>
+<a href="https://ceramic.network/" target="_blank"><button class="btn btn-info btn-sm">Ceramic</button></a>
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
