@@ -258,6 +258,7 @@ Coming soon.
 <br/>
 <b>Workshop Leads</b><br/>
 <a href="https://www.desci.com/" target="_blank"><button class="btn btn-info btn-sm">DeSci Labs</button></a>
+<a href="https://ceramic.network/" target="_blank"><button class="btn btn-info btn-sm">Ceramic</button></a>
 <a href="https://useorbis.com/" target="_blank"><button class="btn btn-info btn-sm">Orbis</button></a>
 <a href="https://attest.sh/" target="_blank"><button class="btn btn-info btn-sm">Ethereum Attestation Service</button></a>
 <a href="https://intuition.systems/" target="_blank"><button class="btn btn-info btn-sm">Intuition.Systems</button></a>
