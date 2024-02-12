@@ -136,9 +136,7 @@ Coming Soon.
  
 <b>Time: </b><i>9am-12pm</i>
 
-Showcasing tools and approaches for identity authentication and management to fit requirements for decentralized science applications and infrastructure.
-
-Presenters may use the time to introduce a problem for scientific identity management and explore potential solutions. The focus should be on concrete technical solutions, not on marketing a project or coin.
+Coming Soon.
 
 <br/><a href="https://www.notion.so/elianna/DID-and-Permissions-a20f1d098eff43919c0e85152f4a04bc?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
@@ -249,7 +247,7 @@ Coming soon.
 
 <b>Time: </b><i>1pm-4pm</i>
 
-The Open State Data Network (OSDN) Track will dive into issues connecting data and computation. How do we activate semantic and scientific data? How do we structure decentralized data sets such that computation can be done efficiently? Workshops in this track will map limitations and identify opportunities for bridging computation and data in an open network.
+Coming soon. 
 
 <br/><a href="https://www.notion.so/elianna/Open-State-Data-Networks-d051a55090c94006ba7f93cb7f6fd12d?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
@@ -327,7 +325,7 @@ FAIR (Findable Accessible Interoperable Reusable) Data is a movement aiming to r
 
 <b>Time: </b><i>1pm-4pm</i>
 
-Science has relied on advanced analytics capabilities to push the state of the art in research for centuries. The recent emergence of powerful Artificial Intelligence models promises to continue this trend and accelerate scientific discovery to untold levels. However, keeping both AI and Science open will not be easy. Join us to discuss how we plan to leverage AI to push scientific discovery, while maintaining the decentralized ethos of fair and democratic. 
+Coming soon. 
 
 <br/><a href="https://www.notion.so/elianna/AI-and-Mechanism-Design-d35dc5bb20124b1ca506f3b87f29858d?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
