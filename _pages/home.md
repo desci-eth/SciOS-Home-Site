@@ -113,7 +113,7 @@ A day of showcasing DeSci applications, outputs, and community members. Join us 
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-warning btn-sm">Register to attend!</button>
+  <button class="btn btn-danger btn-sm">Register to attend!</button>
 </a>
 
 </div>
