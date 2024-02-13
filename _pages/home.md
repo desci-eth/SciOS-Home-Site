@@ -109,7 +109,7 @@ A day of showcasing DeSci applications, outputs, and community members. Join us 
 <a href="" target="_blank"><button class="btn btn-success btn-sm">SciOS</button></a>
 
 <b>Showcase Participants</b><br/>
-<a href="" target="https://airtable.com/apptAi2tFe7I5lDvn/pagUBFXku09wiEfGl/form"><button class="btn btn-info btn-sm">Apply to have a showcase!</button></a>
+<a href="https://airtable.com/apptAi2tFe7I5lDvn/pagUBFXku09wiEfGl/form" target="_blank"><button class="btn btn-info btn-sm">Apply to have a showcase!</button></a>
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
