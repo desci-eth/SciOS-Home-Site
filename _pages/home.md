@@ -137,7 +137,7 @@ A day of showcasing DeSci applications, outputs, and community conversations. Jo
 
 <b>Time: </b> <i>9:30am-11am</i>
 
-An hour and a half open session on the problems in the traditional system of science. Join us and share your experience in and thoughts on the issues plaguing trad-sci. This session will help define the limitations of the current firmware of science, and help guide the DeSci movement towards building a more effective stack on which research operates.
+Join us and share your thoughts on the problems facing the traditional system of science. This session will help define the limitations of the current firmware of science, and help guide the DeSci movement towards building a more effective stack on which research operates.
 
 <br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
@@ -171,7 +171,7 @@ An hour and a half open session on the problems in the traditional system of sci
  
 <b>Time: </b><i>11am-12pm</i>
 
-Join us to “set the table” for a week of desci topics grounded by posing the question “what is science” and answering that it is a collection of pretty naturally decentralized protocols (the main chunk of the talk will be breaking this out into specific examples)— an examination of how centralization of implementations has become common, and then end on motivating the development of new implementations which are more decentralized.
+Join us to “set the table” for a week of desci topics grounded by posing the question “what is science” and exploring the hypthesis that science is a collection of decentralized protocols. We will explore some examples including peer-review, lab notebooks and citation mechanisms. Furthmoremore, we will examine how the implementations of these protocols has centralized. We conclude by motivating the development of  more decentralized implementations of these protocols.
 
 <br/><a href="https://www.notion.so/elianna/DID-and-Permissions-a20f1d098eff43919c0e85152f4a04bc?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
