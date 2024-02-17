@@ -100,7 +100,7 @@ iframe {
  
 <b>Time: </b><i>9am-4pm</i>
 
-A day of showcasing DeSci applications, outputs, and community members. Join us for an open platform to talk directly about your DeSci project, how you use DeSci applications, or to have a fireside chat with your Desci peers. Discuss the implications of DeSci, your thoughts on and vision for the future of science, and how we can use Web3 to make a more efficient, productive, equitable, and democratic system of science!
+A day of showcasing DeSci applications, outputs, and community conversations. Join us for an open platform to talk directly about your DeSci project, how you use DeSci applications, or to have a fireside chat or panel with your DeSci peers. Discuss the implications of DeSci, your thoughts on and vision for the future of science, and how we can use Web3 to make a more efficient, productive, equitable, and democratic system of science!
 
 </div>
 
@@ -109,8 +109,8 @@ A day of showcasing DeSci applications, outputs, and community members. Join us 
 <b>Track Lead</b> <br/>
 <a href="" target="_blank"><button class="btn btn-success btn-sm">SciOS</button></a>
 
-<b>Showcase Participants</b><br/>
-<a href="https://airtable.com/apptAi2tFe7I5lDvn/pagUBFXku09wiEfGl/form" target="_blank"><button class="btn btn-info btn-sm">Apply to have a showcase!</button></a>
+<b>Submit a Showcase Proposal!</b><br/>
+<a href="https://airtable.com/apptAi2tFe7I5lDvn/pagUBFXku09wiEfGl/form" target="_blank"><button class="btn btn-info btn-sm">Submit</button></a>
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
@@ -124,6 +124,73 @@ A day of showcasing DeSci applications, outputs, and community members. Join us 
 </div>
 
 #### Day Two, February 27th
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+<div class = "row">
+<div class="col-sm-8">
+<h4><b>Open Problems Sessions</b></h4>
+
+<b>Track Lead:</b>
+<i>Juan Benet</i>
+
+<b>Time: </b> <i>9:30am-11am</i>
+
+An hour and a half open session on the problems in the traditional system of science. Join us and speak to your experience in and thoughts on the trad-sci. 
+
+<br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+</div>
+
+<div class="col-sm-4">
+
+<b>Track Lead</b> <br/><a href="https://research.protocol.ai/authors/juan-benet/" target="_blank"><button class="btn btn-success btn-sm">Juan Benet</button></a> 
+<br/>
+<b>Submit an Open Problems Proposal!</b><br/>
+<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrsSNUxzisr4Rwl0" target="_blank"><button class="btn btn-info btn-sm">Submit</button></a>
+
+<br/>
+<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
+  <button class="btn btn-danger btn-sm">Register to Attend!</button>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+<div class = "row">
+<div class="col-sm-8">
+<h4><b>Science Primitives</b></h4>
+
+<b>Track Lead:</b>
+<i>Michael Zargham</i>
+ 
+<b>Time: </b><i>11am-12pm</i>
+
+Join us to “set the table” for a week of desci topics grounded by posing the question “what is science” and answering that it is a collection of pretty naturally decentralized protocols (the main chunk of the talk will be breaking this out into specific examples)— an examination of how centralization of implementations has become common, and then end on motivating the development of new implementations which are more decentralized.
+
+<br/><a href="https://www.notion.so/elianna/DID-and-Permissions-a20f1d098eff43919c0e85152f4a04bc?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+</div>
+
+<div class="col-sm-4">
+
+<b>Workshop Lead</b> <br/>
+<a href="" target="_blank"><button class="btn btn-success btn-sm">Michael Zargham</button></a>
+<br/>
+<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
+  <button class="btn btn-danger btn-sm">Register to Participate!</button>
+</a>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
@@ -134,7 +201,7 @@ A day of showcasing DeSci applications, outputs, and community members. Join us 
 <b>Track Lead:</b>
 <i>Shady el Damaty, Holonym</i>
  
-<b>Time: </b><i>9am-12pm</i>
+<b>Time: </b><i>1pm-4pm</i>
 
 Join Ceramic, Orbis, and Holonym as we explore technical solutions for decentralized identity in decentralized science applications.
 
@@ -159,42 +226,6 @@ Presenters may use the time to introduce a problem for scientific identity manag
 
 </div>
 </div>
-</div>
-</div>
-</div>
-
-
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-12 col-sm-12">
-<div class = "row">
-<div class="col-sm-8">
-<h4><b>Compute over Data Workshops</b></h4>
-
-<b>Track Lead:</b>
-<i>David Aronchick, Bacalhau</i>
-
-<b>Time: </b> <i>1pm-4pm</i>
-
-Science today often requires terabytes of data or more. The volume of data involved stretches our current infrastructure beyond its bandwidth and storage limits. This reality makes Open Data nearly impossible on the current tech stack. The Compute Over Data Track aims to understand the difficulties Decentralized Science might face in sending compute jobs to the data. This track seeks to answer questions like - how might we optimize the data processing at the source, minimizing latency and maximizing efficiency? How can we ensure the verifiability of data that we never evaluate ourselves? And what are the remaining security limitations to analyzing 'proprietary' data at the source?
-
-<br/><a href="https://www.notion.so/elianna/Compute-over-Data-650b484682f74dab9e1ad4d997bddf39?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
-</div>
-
-<div class="col-sm-4">
-
-<b>Track Lead</b> <br/><a href="https://docs.bacalhau.org/" target="_blank"><button class="btn btn-success btn-sm">Bacalhau</button></a> 
-<br/>
-<b>Workshop Leads</b><br/>
-<a href="https://protocol.ai/" target="_blank"><button class="btn btn-info btn-sm">Protocol Labs</button></a>
-
-<br/>
-<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-danger btn-sm">Register to Participate!</button>
-</a>
-</div>
-</div>
-
 </div>
 </div>
 </div>
