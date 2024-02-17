@@ -137,7 +137,7 @@ A day of showcasing DeSci applications, outputs, and community conversations. Jo
 
 <b>Time: </b> <i>9:30am-11am</i>
 
-An hour and a half open session on the problems in the traditional system of science. Join us and speak to your experience in and thoughts on the trad-sci. 
+An hour and a half open session on the problems in the traditional system of science. Join us and share your experience in and thoughts on the issues plaguing trad-sci. This session will help define the limitations of the current firmware of science, and help guide the DeSci movement towards building a more effective stack on which research operates.
 
 <br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
@@ -179,7 +179,7 @@ Join us to “set the table” for a week of desci topics grounded by posing the
 <div class="col-sm-4">
 
 <b>Workshop Lead</b> <br/>
-<a href="" target="_blank"><button class="btn btn-success btn-sm">Michael Zargham</button></a>
+<a href="https://www.linkedin.com/in/mczargham/" target="_blank"><button class="btn btn-success btn-sm">Michael Zargham</button></a>
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
   <button class="btn btn-danger btn-sm">Register to Participate!</button>
@@ -255,7 +255,8 @@ The Funding and Incentives Track will explore ways in which funding solutions an
 <b>Workshop Leads</b><br/>
 <a href="https://www.coordination.network/" target="_blank"><button class="btn btn-info btn-sm">coordination.network</button></a>
 <a href="https://www.opensource.observer/" target="_blank"><button class="btn btn-info btn-sm">Open Source Observer</button></a>
-<a href="https://gridcoin.us/" target="_blank"><button class="btn btn-success btn-info">gridcoin</button></a>
+<a href="https://gridcoin.us/" target="_blank"><button class="btn btn-success btn-info">Gridcoin</button></a>
+<a href="https://www.molecule.xyz/" target="_blank"><button class="btn btn-success btn-info">Molecule</button></a>
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
@@ -298,6 +299,7 @@ The Open State Data Network (OSDN) Track will dive into issues connecting data a
 <a href="https://intuition.systems/" target="_blank"><button class="btn btn-info btn-sm">Intuition.Systems</button></a>
 <a href="https://ipfs.tech/" target="_blank"><button class="btn btn-info btn-sm">IPFS</button></a>
 <a href="https://protocol.ai/" target="_blank"><button class="btn btn-info btn-sm">Protocol Labs</button></a>
+<a href="https://tableland.xyz/" target="_blank"><button class="btn btn-info btn-sm">Tableland</button></a>
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
