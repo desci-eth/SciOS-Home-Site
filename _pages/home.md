@@ -100,7 +100,7 @@ iframe {
  
 <b>Time: </b><i>9am-4pm</i>
 
-A day of showcasing DeSci applications, outputs, and community conversations. Join us for an open platform to talk directly about your DeSci project, how you use DeSci applications, or to have a fireside chat or panel with your DeSci peers. Discuss the implications of DeSci, your thoughts on and vision for the future of science, and how we can use Web3 to make a more efficient, productive, equitable, and democratic system of science!
+Join us for an open platform that highlights the importance of the DeSci deep-tech stack by highlighting the outstanding tools it enables. Speak directly about your DeSci project, how you use DeSci applications, or to have a fireside chat or panel with your DeSci peers. Discuss the implications of DeSci, your thoughts on and vision for the future of science, and how we can use Web3 to make a more efficient, productive, equitable, and democratic system of science!
 
 </div>
 
