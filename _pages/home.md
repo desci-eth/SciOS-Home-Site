@@ -365,6 +365,7 @@ FAIR (Findable Accessible Interoperable Reusable) Data is a movement aiming to r
 <b>Time: </b><i>1pm-4pm</i>
 
 Science has relied on advanced analytics capabilities to push the state of the art in research for centuries. The recent emergence of powerful Artificial Intelligence models promises to continue this trend and accelerate scientific discovery to untold levels. However, keeping both AI and Science open will not be easy. Join us to discuss how we plan to leverage AI to push scientific discovery, while maintaining the decentralized ethos of fair and democratic.
+
 <br/><a href="https://www.notion.so/elianna/AI-and-Mechanism-Design-d35dc5bb20124b1ca506f3b87f29858d?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
 
