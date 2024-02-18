@@ -74,12 +74,15 @@ iframe {
 </div>
 <div style="text-align: center; margin-top: 30px;">
   <hr style="width: 50%; margin: auto; border: 1px solid #ccc; height: 1px;">
-  <div style="margin: 20px 0;"> <!-- Added margin for spacing around the date -->
+  <div style="margin: 20px 0;"> <!-- Additional margin for visual separation -->
     <i>February 26th - 29th</i>
   </div>
-  <i>2601 Walnut St. Denver CO, 80205</i>
+  <div style="margin-bottom: 20px;"> <!-- Consistent bottom margin with the date -->
+    <i>2601 Walnut St. Denver CO, 80205</i>
+  </div>
   <hr style="width: 50%; margin: auto; border: 1px solid #ccc; height: 1px;">
 </div>
+
 
 <br>
 <div id="about-me" style="margin-bottom: 10px;">
