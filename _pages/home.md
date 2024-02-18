@@ -73,10 +73,10 @@ iframe {
   </a>
 </div>
 <div style="text-align: center; margin-top: 30px;">
-  <hr style="width: 50%; margin: auto;"> <!-- Top horizontal line -->
-  <i style="font-size: 18px; font-weight: bold; color: #007bff;">February 26th - 29th</i><br>
-  <i style="font-size: 18px; font-weight: bold; color: #007bff;">2601 Walnut St. Denver CO, 80205</i>
-  <hr style="width: 50%; margin: auto;"> <!-- Bottom horizontal line -->
+  <hr style="width: 50%; margin: auto;">
+  <i>February 26th - 29th</i><br>
+  <i>2601 Walnut St. Denver CO, 80205</i>
+  <hr style="width: 50%; margin: auto;">
 </div>
 
 <div id="about-me" style="margin-bottom: 10px;">
