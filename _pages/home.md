@@ -57,25 +57,24 @@ iframe {
 <br/>
 
 <div style="text-align: center;">
-<h2> Science Needs a Firmware Update </h2>
+  <h2>Science Needs a Firmware Update</h2>
 </div>
 <div id="register" style="text-align: center;">
-<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-success btn-lg">Register to Attend SciOS!</button></a>
-<a href="https://t.me/+Fyeo1dJqdbw4MTQx" target="_blank"><button class="btn btn-success btn-lg">Join the Conversation</button></a>
+  <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-success btn-lg">Register to Attend SciOS!</button></a>
+  <a href="https://t.me/+Fyeo1dJqdbw4MTQx" target="_blank"><button class="btn btn-success btn-lg">Join the Conversation</button></a>
 </div>
-<div style="text-align: center; margin-top: 0px;">
-<a href="https://summit.desci.community/" target="_blank">
-  <button class="btn btn-info btn-lg" style="display: inline-block; width: 240px; white-space: normal; text-align: center; vertical-align: middle; padding: 8px 16px; font-size: 14px;">Submit a proposal for the DeSci Showcase</button>
-</a>
-</div>
-<div style="text-align: center; margin-top: 0px;">
-<a href="https://summit.desci.community/" target="_blank">
-  <button class="btn btn-info btn-lg" style="display: inline-block; width: 240px; white-space: normal; text-align: center; vertical-align: middle; padding: 8px 16px; font-size: 14px;">Submit a proposal for the Open Problems Session</button>
-</a>
+<!-- Adjusted div for side-by-side buttons -->
+<div style="text-align: center; margin-top: 20px;"> <!-- Adjust margin as needed -->
+  <a href="https://summit.desci.community/" target="_blank">
+    <button class="btn btn-info btn-lg" style="display: inline-block; width: 240px; white-space: normal; text-align: center; vertical-align: middle; padding: 8px 16px; font-size: 14px; margin-right: 10px;">Submit a proposal for the DeSci Showcase</button>
+  </a>
+  <a href="https://summit.desci.community/" target="_blank">
+    <button class="btn btn-info btn-lg" style="display: inline-block; width: 240px; white-space: normal; text-align: center; vertical-align: middle; padding: 8px 16px; font-size: 14px;">Submit a proposal for the Open Problems Session</button>
+  </a>
 </div>
 <div style="text-align: center;">
-<i>February 26th - 29th</i><br>
-<i>2601 Walnut St. Denver CO, 80205</i>
+  <i>February 26th - 29th</i><br>
+  <i>2601 Walnut St. Denver CO, 80205</i>
 </div>
 
 <div id="about-me" style="margin-bottom: 10px;">
