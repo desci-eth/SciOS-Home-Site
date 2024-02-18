@@ -63,13 +63,13 @@ iframe {
   <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-success btn-lg">Register to Attend SciOS!</button></a>
   <a href="https://t.me/+Fyeo1dJqdbw4MTQx" target="_blank"><button class="btn btn-success btn-lg">Join the Conversation</button></a>
 </div>
-<!-- Adjusted div for side-by-side buttons -->
-<div style="text-align: center; margin-top: 20px;"> <!-- Adjust margin as needed -->
+<!-- Adjusted div for smaller side-by-side buttons -->
+<div style="text-align: center; margin-top: 20px;">
   <a href="https://summit.desci.community/" target="_blank">
-    <button class="btn btn-info btn-lg" style="display: inline-block; width: 240px; white-space: normal; text-align: center; vertical-align: middle; padding: 8px 16px; font-size: 14px; margin-right: 10px;">Submit a proposal for the DeSci Showcase</button>
+    <button class="btn btn-info" style="display: inline-block; width: 200px; white-space: normal; text-align: center; vertical-align: middle; padding: 6px 12px; font-size: 12px; margin-right: 10px;">Submit a proposal for the DeSci Showcase</button>
   </a>
   <a href="https://summit.desci.community/" target="_blank">
-    <button class="btn btn-info btn-lg" style="display: inline-block; width: 240px; white-space: normal; text-align: center; vertical-align: middle; padding: 8px 16px; font-size: 14px;">Submit a proposal for the Open Problems Session</button>
+    <button class="btn btn-info" style="display: inline-block; width: 200px; white-space: normal; text-align: center; vertical-align: middle; padding: 6px 12px; font-size: 12px;">Submit a proposal for the Open Problems Session</button>
   </a>
 </div>
 <div style="text-align: center;">
