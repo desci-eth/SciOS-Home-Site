@@ -57,17 +57,34 @@ iframe {
 <br/>
 
 <div style="text-align: center;">
-<h2> Science Needs a Firmware Update </h2>
+  <h2>Science Needs a Firmware Update</h2>
 </div>
 <div id="register" style="text-align: center;">
-<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-success btn-lg">Register to Attend SciOS!</button></a>
-<a href="https://t.me/+Fyeo1dJqdbw4MTQx" target="_blank"><button class="btn btn-success btn-lg">Join the Conversation</button></a>
+  <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-success btn-lg">Register to Attend SciOS!</button></a>
+  <a href="https://t.me/+Fyeo1dJqdbw4MTQx" target="_blank"><button class="btn btn-success btn-lg">Join the Telegram</button></a>
 </div>
-<div style="text-align: center;">
-<i>February 26th - 29th</i><br>
-<i>2601 Walnut St. Denver CO, 80205</i>
+<!-- Adjusted div for smaller side-by-side buttons -->
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://airtable.com/apptAi2tFe7I5lDvn/pagUBFXku09wiEfGl/form" target="_blank">
+    <button class="btn btn-info" style="display: inline-block; width: 200px; white-space: normal; text-align: center; vertical-align: middle; padding: 6px 12px; font-size: 12px; margin-right: 10px;">Submit a proposal for the DeSci Showcase</button>
+  </a>
+  <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrsSNUxzisr4Rwl0" target="_blank">
+    <button class="btn btn-info" style="display: inline-block; width: 200px; white-space: normal; text-align: center; vertical-align: middle; padding: 6px 12px; font-size: 12px;">Submit a proposal for the Open Problems Session</button>
+  </a>
+</div>
+<div style="text-align: center; margin-top: 30px;">
+  <hr style="width: 50%; margin: auto; border: 1px solid #ccc; height: 1px;">
+  <div style="margin: 20px 0;"> <!-- Additional margin for visual separation -->
+    <i>February 26th - 29th</i>
+  </div>
+  <div style="margin-bottom: 20px;"> <!-- Consistent bottom margin with the date -->
+    <i>2601 Walnut St. Denver CO, 80205</i>
+  </div>
+  <hr style="width: 50%; margin: auto; border: 1px solid #ccc; height: 1px;">
 </div>
 
+
+<br>
 <div id="about-me" style="margin-bottom: 10px;">
   The Scientific Coordination Infrastructure and Operating Systems Workshops (SciOS) is a 4 day event bringing together open science deep infrastructure technicians and engineers to collaborate on shared solutions, standards, and paths forward for a technology-based scientific ecosystem that enables FAIR, collaborative, AI-enhanced, open science practices.
 
