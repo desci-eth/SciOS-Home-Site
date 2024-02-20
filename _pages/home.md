@@ -102,6 +102,7 @@ iframe {
 
 A day of showcasing DeSci applications, outputs, and community members. Join us for an open platform to talk directly about your DeSci project, how you use DeSci applications, or to have a fireside chat with your Desci peers. Discuss the implications of DeSci, your thoughts on and vision for the future of science, and how we can use Web3 to make a more efficient, productive, equitable, and democratic system of science!
 
+<br/><a href="https://www.notion.so/elianna/Showcase-3c6512f7dc50411cbd2d8fb62ba37305?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
 
 <div class="col-sm-4">
@@ -114,7 +115,7 @@ A day of showcasing DeSci applications, outputs, and community members. Join us 
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
-  <button class="btn btn-danger btn-sm">Register to attend!</button>
+  <button class="btn btn-danger btn-sm">Register to Attend!</button>
 </a>
 
 </div>
