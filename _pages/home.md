@@ -119,8 +119,6 @@ iframe {
 
 Join us for an open platform that highlights the importance of the DeSci deep-tech stack by highlighting the tools, research, and community it enables. Demo your DeSci project, highlight a use of DeSci applications, host a fireside chat or panel with your DeSci peers, or take the stage by yourself to discuss the implications of DeSci, your thoughts on and vision for the future of science, and how we can use Web3 to make a more efficient, productive, equitable, and democratic system of science!
 
-<br/><a href="https://www.notion.so/elianna/DID-and-Permissions-a20f1d098eff43919c0e85152f4a04bc?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
-
 <br/><a href="https://www.notion.so/elianna/Showcase-3c6512f7dc50411cbd2d8fb62ba37305?pvs=4" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
 
