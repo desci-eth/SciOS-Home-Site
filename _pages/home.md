@@ -389,7 +389,7 @@ Science has relied on advanced analytics capabilities to push the state of the a
 
 <b>Track Leads</b> <br/>
 <a href="https://decentralized.nevermined.io/" target="_blank"><button class="btn btn-success btn-sm">Nevermined</button></a> 
-<a href="" target="_blank"><button class="btn btn-success btn-sm">CoopHive</button></a>
+<a href="https://coophive.network/" target="_blank"><button class="btn btn-success btn-sm">CoopHive</button></a>
 <br/>
 <b>Workshop Leads</b><br/>
 <a href="https://index.network/" target="_blank"><button class="btn btn-info btn-sm">Index Network</button></a>
