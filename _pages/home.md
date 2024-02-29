@@ -396,6 +396,8 @@ Science has relied on advanced analytics capabilities to push the state of the a
 <a href="https://www.algovera.ai/" target="_blank"><button class="btn btn-info btn-sm">Algovera</button></a>
 <a href="https://www.coordination.network/" target="_blank"><button class="btn btn-info btn-sm">coordination.network</button></a>
 <a href="https://csensemakers.com/" target="_blank"><button class="btn btn-info btn-sm">Common Sensemakers</button></a>
+<a href="https://block.science/" target="_blank"><button class="btn btn-info btn-sm">Block.Science</button></a>
+<a href="https://www.valory.xyz/" target="_blank"><button class="btn btn-info btn-sm">Valory</button></a>
 
 <br/>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank">
